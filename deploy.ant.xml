@@ -102,7 +102,7 @@
   <property name="checkpoint.name" value="DCM_Sample"/>
   <property name="service.name" value="WeatherDetailsWSP"/>
   <property name="service.type" value="Web Service Proxy"/>
-  <property name="import.file" value="D:\WeatherDetailsWSP\WeatherDetailsWSP.zip"/>
+  <property name="import.file" value="F:\DPAutomation\dpservice\WeatherDetailsWSP.zip"/>
   <property name="deployment.policy.object" value="DCM_Demo"/>
   
          <property name="host" value="172.17.11.158"/>
